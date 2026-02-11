@@ -1,7 +1,7 @@
 # Infinite Match-3 Engine 💎
 > A high-performance, mobile-optimized Match-3 framework built in Unity (C#).
 
-[![Play in Browser](https://img.shields.io/badge/Play_in_Browser-itch.io-fa5c5c?style=for-the-badge&logo=itch.io)]([YOUR_ITCH_IO_LINK_HERE](https://aciros.itch.io/infinite-match-3-engine))
+[![Play in Browser](https://img.shields.io/badge/Play_in_Browser-itch.io-fa5c5c?style=for-the-badge&logo=itch.io)](https://aciros.itch.io/infinite-match-3-engine)
 [![Unity](https://img.shields.io/badge/Made_with-Unity-000000?style=for-the-badge&logo=unity)](https://unity.com/)
 
 ## 🎮 Overview
