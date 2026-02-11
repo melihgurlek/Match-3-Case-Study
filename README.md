@@ -16,7 +16,7 @@ Instead of standard recursion (which risks Stack Overflow on large boards), I im
 
 ### 2. Object Pooling System
 To prevent Garbage Collection (GC) stutters during gameplay, tiles are never destroyed. They are deactivated and returned to a managed queue.
-* **Code:** [`Scripts/TilePool.cs`](./Assets/Scripts/TilePool.cs)
+* **Code:** [`Scripts/TileController.cs`](./Assets/Scripts/TileController.cs)
 * **Impact:** Zero runtime allocation for tile spawning after initialization.
 
 ### 3. Logical vs. Visual Separation
