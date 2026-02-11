@@ -1,0 +1,48 @@
+# Unity Generated
+
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Memory Dumps & Crash Reports
+sysinfo.txt
+*.stackdump
+crashlytics-build.properties
+
+# Visual Studio / VS Code / Rider (Generated Project Files)
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Builds & Output
+*.apk
+*.aab
+*.unitypackage
+*.app
