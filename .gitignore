@@ -8,6 +8,7 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+
 # Memory Dumps & Crash Reports
 sysinfo.txt
 *.stackdump
